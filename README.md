@@ -1,0 +1,2 @@
+# GNmaster_respository_code_pyhon
+freshman
